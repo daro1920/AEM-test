@@ -1,0 +1,52 @@
+{
+  "last_updated": "2026-04-06T21:39:57-07:00",
+  "sessions": [
+    {
+      "id": "opening-keynote-live",
+      "channel_id": "channel-1",
+      "showflow_id": "showflow-opening-keynote",
+      "status": "scheduled",
+      "name": "Opening Keynote",
+      "type": "simulive",
+      "start_time": "2026-04-06T06:00:00-07:00",
+      "end_time": "2026-04-06T07:24:00-07:00",
+      "timezone_name": "PT",
+      "stream_details": {
+        "video_id": "ref:KEY2674-K25",
+        "account_id": "5703385908001",
+        "player_id": "7OSUZoQy9n",
+        "player": "brightcove",
+        "autoplay": true
+      },
+      "livechat_details": {
+        "pidgeonhole_chat_id": "9SNJNWZS",
+        "pidgeonhole_qa_id": "4RWPGZE7"
+      },
+      "on_demand_url": "https://www.servicenow.com/events/knowledge/2025/sessions/day-1--put-ai-to-work-for-people---now.html",
+      "session_info": {
+        "session_title": "Day  1: Put AI to work for people - now",
+        "session_description": "Join Bill McDermott, ServiceNow Chairman and CEO, and special guests for an inspiring keynote about how we're putting AI to work across every corner of your business.",
+        "gated": false,
+        "session_id": "1737135156824001JW1m",
+        "speakers": [
+          {
+            "first_name": "Bill",
+            "last_name": "McDermott",
+            "job_title": "Chairman and CEO",
+            "company": "ServiceNow"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ai-healthcare-breakout",
+      "name": "AI in Healthcare",
+      "start_time": "2026-04-06T08:03:00-07:00",
+      "end_time": "2026-04-06T08:39:00-07:00",
+      "session_info": {
+        "session_title": "Put AI to Work in Healthcare",
+        "speakers": []
+      }
+    }
+  ]
+}
