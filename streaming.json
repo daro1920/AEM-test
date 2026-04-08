@@ -1,0 +1,114 @@
+{
+  "sessions": [
+    {
+      "id": "opening-keynote-live",
+      "name": "Opening Keynote222 22222",
+      "type": "live",
+      "resources": [],
+      "channel_id": "channel-3",
+      "showflow_id": "opening-keynote-live-showflow",
+      "start_time": "2026-04-08T14:24-07:00",
+      "end_time": "2026-04-08T14:24-07:00",
+      "stream_details": {
+        "player": "brightcove",
+        "autoplay": true,
+        "video_id": "ref:SES3232-K25",
+        "account_id": "5703385908001",
+        "player_id": "7OSUZoQy9n"
+      },
+      "livechat_details": {
+        "pidgeonhole_chat_id": "9SNJNWZS",
+        "pidgeonhole_qa_id": "4RWPGZE7"
+      },
+      "on_demand_url": "/events/knowledge/2025/sessions/accelerating-incident-resolution-with-ai-driven-automation-powered-by-aiops-leap.html",
+      "session_info": {
+        "gated": true,
+        "speakers": [
+          {
+            "company": "ServiceNow",
+            "first_name": "Sree",
+            "last_name": "Subramaniam",
+            "job_title": "Senior Director of Product Management",
+            "photo_url": "https://static.rainfocus.com/servicenow/k24/att/1565907689255001qhrZ/attprofile/Sree_SN-SKO24-6_24-01-24_1102%201_1710048140382001xaXI.jpg",
+            "speaker_type": "Speaker"
+          },
+          {
+            "company": "ServiceNow",
+            "first_name": "Gian Mario",
+            "last_name": "Deluigi",
+            "job_title": "Staff Outbound Product Manager",
+            "photo_url": "https://static.rainfocus.com/servicenow/k24/att/1699039032391001PaH2/attprofile/Gian%20profile%20pic%20K24_1712079269700001OY0j.jpg",
+            "speaker_type": "Lead Speaker"
+          }
+        ],
+        "session_title": "Accelerating incident resolution with AI-driven automation powered by AIOPs LEAP",
+        "session_description": "Discover how the new AIOps Learning Enhanced Automation Playbooks (LEAP) leverages Agentic AI to analyze past incidents, identify patterns, and auto-generate resolution steps. See how this integrates with Now Assist to create automated workflows, drastically reducing resolution time. Learn practical strategies to empower admins and scale efficiency. Ideal for IT leaders seeking actionable ways to accelerate incident management and more. LEAP gives you a jump start to improve efficiency, reduce human errors, and increase scalability.",
+        "session_id": "1740665824533001xbiu"
+      }
+    }
+  ],
+  "channels": [
+    {
+      "id": "channel-2",
+      "name": "Channel 2",
+      "title": "<b>Knowledge 2026!</b> Unleash the power of the ServiceNow AI Platform",
+      "order": 2,
+      "thumbnail": "/content/dam/servicenow-assets/images/apex.jpg",
+      "active_session_error": false,
+      "thumbnail_alt_text": "Channel 1 thumbnail",
+      "error_xf_path": null
+    },
+    {
+      "id": "channel-1",
+      "name": "Channel 12",
+      "title": "<b>Knowledge 2026!</b> Unleash the power of the ServiceNow AI Platform",
+      "order": 1,
+      "thumbnail": "/content/dam/servicenow-assets/images/arrow.svg",
+      "active_session_error": false,
+      "thumbnail_alt_text": "Channel 1 thumbnail",
+      "error_xf_path": null
+    },
+    {
+      "id": "channel-3",
+      "name": "Channel 3",
+      "title": "Some title",
+      "order": 3,
+      "thumbnail": "/content/dam/servicenow-assets/images/arrow.jpg",
+      "active_session_error": true,
+      "thumbnail_alt_text": null,
+      "error_xf_path": null
+    }
+  ],
+  "showflows": [
+    {
+      "id": "opening-keynote-live-showflow",
+      "segments": [
+        {
+          "id": "opening-keynote-live-segment-1",
+          "order": 1,
+          "title": "This is a segmentas ass ",
+          "speakers": [],
+          "duration_min": 20
+        },
+        {
+          "id": "opening-keynote-live-segment-2",
+          "order": 2,
+          "title": "asdasd",
+          "speakers": [],
+          "duration_min": 15
+        }
+      ],
+      "session_id": "opening-keynote-live",
+      "show_start_time": "2026-04-08T14:24-07:00"
+    }
+  ],
+  "bumpers": [
+    {
+      "xf": "/content/experience-fragments/snow-knowledge/sites/us/en/components/brightcove-videos/k21-homepage/master",
+      "channel_id": "channel-3",
+      "start_time": "2026-04-08T13:24-07:00",
+      "end_time": "2026-04-08T13:34-07:00"
+    }
+  ],
+  "last_updated": "2026-04-08T14:15:26.015660Z"
+}
