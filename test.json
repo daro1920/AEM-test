@@ -1,4 +1,29 @@
 {
-  "test": "true",
-  "timestamp": "2026-04-07"
+  "last_updated": "2026-04-06T21:39:57-07:00",
+  "sessions": [
+    {
+      "id": "opening-keynote-live",
+      "channel_id": "channel-1",
+      "showflow_id": "showflov-opening-keynote",
+      "start_time": "2026-04-06T06:00:00-07:00",
+      "end_time": "2026-04-06T07:24:00-07:00",
+      "stream_details": {
+        "video_id": "ref:KEY2674-K25",
+        "player": "brightcove",
+        "autoplay": true
+      },
+      "session_info": {
+        "session_title": "Day 1: Put AI to work for people - now",
+        "session_id": "1737135156824001JW1m",
+        "speakers": [
+          {
+            "first_name": "Biel",
+            "last_name": "McDermott",
+            "company": "ServiceNow",
+            "speaker_type": "Lead Speaker"
+          }
+        ]
+      }
+    }
+  ]
 }
